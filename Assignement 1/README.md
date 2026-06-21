@@ -41,7 +41,7 @@ The project is structured sequentially inside the notebook following standard da
 * **Image Count (`num_images`)**: Counts the number of product images provided in the comma-separated listing.
 
 ### 4. Sequential Visualization Flow
-All plots are designed to be clean, professional, and visually minimal, utilizing a muted steel-blue (`#4A607A`) and gray palette:
+
 * **Univariate Analyses**: Individual rating, review volume, final price, and discount percentage distributions.
 * **Bivariate Relations**: Scatter plots of discount vs. price metrics, and a clean lower-triangle correlation heatmap.
 * **Category Metrics**: Average final price and average rating (plotted against the overall average benchmark) for the top 10 categories.
