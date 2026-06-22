@@ -62,10 +62,15 @@ The project is structured sequentially inside the notebook following standard da
 ## Author
 
 **Tejas Chaudhari**
+
 Computer Engineering Undergraduate
+
 Data Engineering Intern 
+
 CEI Internship Program 2026
+
 Maharashtra, India
 
-Github: https://github.com/TejasC005
-Linkedin : www.linkedin.com/in/tejas-chaudhari-a2817329a
+* Github: https://github.com/TejasC005
+
+* Linkedin : www.linkedin.com/in/tejas-chaudhari-a2817329a
