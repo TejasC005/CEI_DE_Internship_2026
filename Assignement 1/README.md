@@ -56,3 +56,16 @@ The project is structured sequentially inside the notebook following standard da
 * **Pricing Skew**: The final price distribution is heavily right-skewed. Most listings concentrate under Rs. 3,000, signaling a platform focus on budget and mid-range buyers.
 * **Reviews and Visibility**: Several highly-rated products (4.5+) suffer from low popularity scores because of a small review footprint, pointing to an opportunity to encourage reviews post-purchase.
 * **Discount Dynamics**: Categories show distinct discount profiles. Some premium categories like jewelry/accessories maintain deep discounts to move stock, while other utility categories maintain higher base prices with fewer markdowns.
+
+---
+
+## Author
+
+**Tejas Chaudhari**
+Computer Engineering Undergraduate
+Data Engineering Intern 
+CEI Internship Program 2026
+Maharashtra, India
+
+Github: https://github.com/TejasC005
+Linkedin : www.linkedin.com/in/tejas-chaudhari-a2817329a
